@@ -55,7 +55,8 @@ HOW TO USE ON WINDOWS
 
 
 HOW INPUT IS PROCESSES
-✔ Valid input (numbers or strings)
+
+Valid input (numbers or strings)
 -> Program continues normally depending on which one is expected.
 
 Invalid input (letters, symbols, empty input, duplicates, illogical ones...)
